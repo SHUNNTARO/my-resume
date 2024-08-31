@@ -1,3 +1,6 @@
-# Project Description
-This project aims to dive into the mechanics of git.
-You may clone this Repository and check its version history.
+# weekly-report
+自身のポートフォリオサイトを作成しました。
+# 目的
+ウェブサーバの役割と HTTP 通信の基本を理解し、NGINX を活用したリクエストのハンドリング方法とインターネットの基盤である DNS について理解し、TLS によるセキュリティ確保の重要性について学びました。そして得た知識を活用して自身の静的なウェブサイトをデプロイしました。
+# サイトURL
+https://kakkeeess-website.com
