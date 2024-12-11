@@ -25,17 +25,28 @@ https://kakkeeess-website.com
 
 # 内容
 
-## HTTP
-* https(http): どのように通信するか
-* kakkeeess-website: どのサイトに行くか（ドメイン名）
-* .com: (topドメイン)
-  
-上記のことを示している。
-
-
 ### 概要
 *　HTTPは、インターネット上での通信のために最も一般的に使用されるプロトコルであり、安全で信頼性の高いパケットの送受信を可能としているためクライアントやサーバなどの多くのアプリケーションが使うアプリケーション層で標準化されている。
+## HTTP
 ### HTTPリクエスト
+作成したWebサイト(https://kakkeeess-website.com)  を参考に
+* https(http): どのように通信するか
+* kakkeeess-website: どのサイトに行くか（ドメイン名）
+* com: (topドメイン)
+  
+上記のことを示している。￥
+### CRUD操作
+データベースとの間で情報を読み取り（Read）、作成（Create）、更新（Update）、そして削除（Delete）これらの一連の操作をCRUD操作という。
+
+| HTTPリクエスト  | 機能 |
+| ------------- | ------------- |
+| GET | READ  |
+| POST  | CREATE  |
+| PUT  | UPDATA  |
+| DELETE  | DELETE  |
+
+
+
 
 
 ## コマンド一覧
