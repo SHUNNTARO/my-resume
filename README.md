@@ -88,7 +88,8 @@ HTTPは、インターネット上での通信のために最も一般的に使�
 IPアドレスとドメイン名を紐づけし、IPネットワーク上で管理するシステム。
 
 
-![スライド1](https://github.com/user-attachments/assets/817bd081-c9ba-4bb3-9ed3-701284fddd79)
+![スライド1](https://github.com/user-attachments/assets/d94e114b-f5c7-454e-915b-de6c856d251f)
+
 
 
 
