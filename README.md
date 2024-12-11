@@ -40,10 +40,10 @@ https://kakkeeess-website.com
 
 | HTTPリクエスト  | 機能 |
 | ------------- | ------------- |
-| GET | READ  |
-| POST  | CREATE  |
-| PUT  | UPDATA  |
-| DELETE  | DELETE  |
+| GET | **READ**: リソースからデータを要求する。|
+| POST  | **CREATE**: リソースを更新するためにデータをサーバに送信する。|
+| PUT  | **UPDATA**: 新しいリソースを作成するか、既存のリソースを置き換える。 |
+| DELETE  | **DELETE**: 指定したリソースを削除する。|
 
 
 
